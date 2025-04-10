@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+## Learn Next.js
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Next.js Express可以构成后端框架，而React则搭建前端平台，重要的在于要练习与明细功能。
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
